@@ -1,5 +1,5 @@
-# EX-7-ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM
-
+# EX-8-ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM
+# DATE:30-09-2024
 ## Aim:
   To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
 
@@ -42,7 +42,7 @@ return 0;
 }
 ```
 ## OUTPUT:
-![model](7.png)
+![model](8.png)
 
 ## RESULT: 
 The execution program is successfully executed.
